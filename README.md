@@ -3,3 +3,5 @@ first-ng-app
 
 
 https://mateuszmilewski.github.io/first-ng-app/
+
+https://mateuszmilewski.github.io/first-ng-app/index.html
